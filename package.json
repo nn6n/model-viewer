@@ -40,7 +40,7 @@
         "concurrently": "^9.1.2",
         "cross-env": "^7.0.3",
         "eslint": "^9.21.0",
-        "eslint-import-resolver-typescript": "^3.8.3",
+        "eslint-import-resolver-typescript": "^3.10.1",
         "globals": "^16.0.0",
         "playcanvas": "^2.5.1",
         "qrious": "^4.0.2",
