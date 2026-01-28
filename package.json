@@ -39,7 +39,7 @@
         "@typescript-eslint/parser": "^8.25.0",
         "concurrently": "^9.1.2",
         "cross-env": "^7.0.3",
-        "eslint": "^9.21.0",
+        "eslint": "^9.26.0",
         "eslint-import-resolver-typescript": "^3.8.3",
         "globals": "^16.0.0",
         "playcanvas": "^2.5.1",
